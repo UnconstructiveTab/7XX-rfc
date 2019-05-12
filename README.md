@@ -69,7 +69,7 @@ Table of Contents
 
 2.3.  Edge Cases
 
-   o  720 - Unpossible
+   o  720 - Impossible
 
    o  721 - Known Unknowns
 
